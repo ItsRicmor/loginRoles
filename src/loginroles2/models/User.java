@@ -2,6 +2,8 @@ package loginroles2.models;
 
 public class User {
     
+    //PASADO
+    
     private String email;
     private String password;
     private Person person;
@@ -48,6 +50,5 @@ public class User {
     public void setRole(Role role) {
         this.role = role;
     }
-    
     
 }
