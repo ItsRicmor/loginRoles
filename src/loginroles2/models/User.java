@@ -2,7 +2,7 @@ package loginroles2.models;
 
 public class User {
     
-    //PASADO
+    //Futuro
     
     private String email;
     private String password;
